@@ -1,4 +1,4 @@
-FROM cheggwpt/php7:latest
+FROM cheggwpt/php7:1.0.0
 
 RUN	apk --update --no-cache add \
 		--virtual .libreoffice libreoffice && \
