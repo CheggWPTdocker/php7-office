@@ -1,5 +1,5 @@
 NAME = cheggwpt/php7-office
-VERSION = 0.0.1
+VERSION = 1.1.6
 
 .PHONY: all build test tag_latest release ssh
 
